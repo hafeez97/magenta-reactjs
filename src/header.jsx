@@ -45,7 +45,7 @@ const Header = () => {
                                 <div className="top-icon">
                                     <ul>
                                         <li>
-                                            <a href="javascript:;" id="user-show">
+                                            <a href="javascript:void(0)" id="user-show">
                                                 <svg
                                                     xmlns="http://www.w3.org/2000/svg"
                                                     width={20}
@@ -64,7 +64,7 @@ const Header = () => {
                                             <div id="user-box">
                                                 <ul>
                                                     <li>
-                                                        <a href=" javascript:;">
+                                                        <a href=" javascript:void(0)">
                                                             <svg
                                                                 xmlns="http://www.w3.org/2000/svg"
                                                                 width={16}
@@ -121,7 +121,7 @@ const Header = () => {
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href=" javascript:;">
+                                                        <a href=" javascript:void(0)">
                                                             <svg
                                                                 xmlns="http://www.w3.org/2000/svg"
                                                                 width="15.994"
@@ -152,7 +152,7 @@ const Header = () => {
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href=" javascript:;">
+                                                        <a href=" javascript:void(0)">
                                                             <svg
                                                                 xmlns="http://www.w3.org/2000/svg"
                                                                 width="16.185"
@@ -198,7 +198,7 @@ const Header = () => {
                                                 <div className="wallet-top">
                                                     <ul>
                                                         <li>
-                                                            <a href="javascript:;">
+                                                            <a href="javascript:void(0)">
                                                                 <img src="assets/images/icon-user.svg" />
                                                                 My Wallet
                                                             </a>
@@ -208,8 +208,8 @@ const Header = () => {
                                                 <div className="wallet-middle-box">
                                                     <ul>
                                                         <li>
-                                                            <a href="javascript:;" onClick={()=>connectToWallet()}>
-                                                                <img src="assets/images/meta-mask.png" />
+                                                            <a href="javascript:void(0)" onClick={()=>connectToWallet()}>
+                                                                <img src="assets/images/hash-pack.jpg" />
                                                                 HashPack
                                                             </a>
                                                         </li>
@@ -223,7 +223,7 @@ const Header = () => {
                                                     <br/>
                                                     <ul>
                                                         <li>
-                                                            <a href="javascript:;" id="show-wallet">
+                                                            <a href="javascript:void(0)" id="show-wallet">
                                                                 Show More Options
                                                             </a>
                                                         </li>
@@ -237,7 +237,7 @@ const Header = () => {
                                     <div className="wallet-top02">
                                         <ul>
                                             <li>
-                                                <a href="javascript:;">
+                                                <a href="javascript:void(0)">
                                                     <img src="assets/images/icon-user.svg" />
                                                     My Wallet
                                                 </a>
@@ -254,7 +254,7 @@ const Header = () => {
                                     <div className="wallet-middle-bottom">
                                         <ul>
                                             <li>
-                                                <a href="javascript:;">Show More Options</a>
+                                                <a href="javascript:void(0)">Show More Options</a>
                                             </li>
                                         </ul>
                                     </div>

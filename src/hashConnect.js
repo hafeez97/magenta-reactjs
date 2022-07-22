@@ -20,6 +20,10 @@ const connectToWallet = async () => {
     let pairingString = hashconnect.generatePairingString(state, 'mainnet', false)
 
     hashconnect.findLocalWallets()
+    if(hashconnect.findLocalWallets() === undefined)
+    {
+        alert("Please Install HashPack Wallet ")
+    }
 
     hashconnect.connectToLocalWallet(pairingString)
 
