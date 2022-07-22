@@ -134,28 +134,6 @@ const Home = () => {
                             </div>
                             <h2>Popular Collections</h2>
                         </div>
-                        <div className="both-slider">
-                            <div className="col-lg-4">
-                                <div className="collection-box">
-                                    <div className="collection-pic">
-                                        <img src="assets/images/popular-01.png" className="img-fluid" />
-                                        <img
-                                            src="assets/images/popular-client01.png"
-                                            className="collection-client"
-                                        />
-                                    </div>
-                                    <h2>Tiger NFT Marketplace</h2>
-                                    <h3>
-                                        <span>By</span>@memories
-                                    </h3>
-                                    <p>
-                                        Memories is the world’s first and largest NFT’s &amp; Art-work
-                                        marketplace
-                                    </p>
-                                </div>
-                            </div>
-
-                        </div>
                     </div>
                 </div>
             </section>
