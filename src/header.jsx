@@ -210,8 +210,14 @@ const Header = () => {
                                                         <li>
                                                             <a href="javascript:void(0)" onClick={()=>connectToWallet()}>
                                                                 <img src="assets/images/hash-pack.jpg" />
-                                                                HashPack
+                                                                HashPack Extension
                                                             </a>
+
+                                                        </li>
+                                                        <li>
+                                                            <a href="https://wallet.hashpack.app/">
+                                                                <img src="assets/images/hash-pack.jpg" />
+                                                                HashPack Browser</a>
                                                         </li>
                                                     </ul>
                                                 </div>
