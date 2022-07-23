@@ -160,7 +160,7 @@ const Home = () => {
                                 </div>
                                 <div className="tredning-txt">
                                     <h2>Memories Art</h2>
-                                    <p>ETH-250.50</p>
+                                    <p>HBAR-250.50</p>
                                 </div>
                                 <span>#1</span>
                             </div>
@@ -172,7 +172,7 @@ const Home = () => {
                                 </div>
                                 <div className="tredning-txt">
                                     <h2>Zipcy’s</h2>
-                                    <p>ETH-250.50</p>
+                                    <p>HBAR-250.50</p>
                                 </div>
                                 <span>#1</span>
                             </div>
@@ -184,7 +184,7 @@ const Home = () => {
                                 </div>
                                 <div className="tredning-txt">
                                     <h2>Asuna Art</h2>
-                                    <p>ETH-250.50</p>
+                                    <p>HBAR-250.50</p>
                                 </div>
                                 <span>#1</span>
                             </div>
@@ -196,7 +196,7 @@ const Home = () => {
                                 </div>
                                 <div className="tredning-txt">
                                     <h2>Crypto Punk</h2>
-                                    <p>ETH-250.50</p>
+                                    <p>HBAR-250.50</p>
                                 </div>
                                 <span>#1</span>
                             </div>
@@ -208,7 +208,7 @@ const Home = () => {
                                 </div>
                                 <div className="tredning-txt">
                                     <h2>Mutant Ape</h2>
-                                    <p>ETH-250.50</p>
+                                    <p>HBAR-250.50</p>
                                 </div>
                                 <span>#6</span>
                             </div>
@@ -220,7 +220,7 @@ const Home = () => {
                                 </div>
                                 <div className="tredning-txt">
                                     <h2>Karafuru</h2>
-                                    <p>ETH-250.50</p>
+                                    <p>HBAR-250.50</p>
                                 </div>
                                 <span>#1</span>
                             </div>
