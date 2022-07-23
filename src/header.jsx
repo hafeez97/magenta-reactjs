@@ -17,7 +17,7 @@ const Header = () => {
                         <div className="row">
                             <div className="col-lg-3 logo-area">
                                 <div className="logo">
-                                    <a href="index.html">
+                                    <a href="/">
                                         <img
                                             className="img-fluid"
                                             src="assets/images/magenta-logo.png"
@@ -30,13 +30,13 @@ const Header = () => {
                                 <div className="main-menu align-self-center d-none d-lg-block">
                                     <ul>
                                         <li>
-                                            <a href="collection.html">Explore</a>
+                                            <a href="/collection">Explore</a>
                                         </li>
                                         <li>
-                                            <a href="digital-art-collection.html">Stats</a>
+                                            <a href="/stats">Stats</a>
                                         </li>
                                         <li>
-                                            <a href="create-collection.html">Create</a>
+                                            <a href="/create">Create</a>
                                         </li>
                                     </ul>
                                 </div>

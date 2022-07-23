@@ -1,13 +1,10 @@
 import Header from "./header";
-import Home from "./home";
+import Home from "./pages/home";
 
 
 function App() {
   return (
-        <main className="app-container">
-            <Header/>
             <Home/>
-        </main>
   );
 }
 
