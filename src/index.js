@@ -13,6 +13,8 @@ import Footer from "./footer";
 import Collection from "./pages/collection";
 import Stats from "./pages/stats";
 import Create from "./pages/create";
+import ProfileSetting from "./pages/profile";
+import Accounts from "./pages/accounts";
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -26,6 +28,8 @@ root.render(
               <Route path="/collection" element={<Collection />}/>
               <Route path="/stats" element={<Stats/>}/>
               <Route path="/create" element={<Create/>}/>
+              <Route path="/setting" element={<ProfileSetting/>}/>
+              <Route path="/account" element={<Accounts/>}/>
           </Routes>
       </BrowserRouter>
           <Footer/>

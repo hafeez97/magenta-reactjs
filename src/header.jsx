@@ -83,7 +83,7 @@ const Header = () => {
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="accounts.html">
+                                                        <a href="/account">
                                                             <svg
                                                                 xmlns="http://www.w3.org/2000/svg"
                                                                 width={20}
@@ -102,7 +102,7 @@ const Header = () => {
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="profile-setting.html">
+                                                        <a href="/setting">
                                                             <svg
                                                                 xmlns="http://www.w3.org/2000/svg"
                                                                 width={16}
